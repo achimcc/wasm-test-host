@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "nb-interface",
+    "nb-helper"
+]
